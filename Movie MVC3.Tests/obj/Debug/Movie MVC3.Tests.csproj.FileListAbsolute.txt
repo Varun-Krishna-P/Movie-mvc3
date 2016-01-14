@@ -1,0 +1,12 @@
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\Movie MVC3.Tests.dll.config
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\Movie MVC3.Tests.dll
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\Movie MVC3.Tests.pdb
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\Movie MVC3.dll
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\Movie MVC3.pdb
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\obj\Debug\Movie MVC3.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\obj\Debug\Movie MVC3.Tests.dll
+C:\Users\Varunkrishna\documents\visual studio 2012\Projects\Movie MVC3\Movie MVC3.Tests\obj\Debug\Movie MVC3.Tests.pdb
